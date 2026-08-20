@@ -1,0 +1,3 @@
+hi i create my todo list file 
+
+Learn git staging and commits
